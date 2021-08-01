@@ -150,7 +150,7 @@ Version: 1.0.0
         <div class="row">
           <div class="col-md-2 col-sm-2">
             <div class="travel_logo">
-				<a href="Home_01.html"><img src="svg/Logo.svg" alt="logo" /></a> 
+				<a href="/"><img src="svg/Logo.svg" alt="logo" /></a> 
 			</div>
           </div>
           <div class="col-md-10 col-sm-10"> <a href="javascript:;" class="menu-toggle"></a>
@@ -160,11 +160,11 @@ Version: 1.0.0
 				<ul class="sub-menu">
 				        <li><a href="/">home-version-1</a></li>
                         <li><a href="/index-2">home-version-2</a></li>
-                        <li><a href="/home-2">home-version-3</a></li>
-                        <li><a href="/home-3">home-version-4</a></li>
-                        <li><a href="/home-4">home-version-5</a></li>
-                        <li><a href="/home-5">home-version-6</a></li>
-                        <li><a href="/home-6">home-version-7</a></li>
+                        <li><a href="/index-3">home-version-3</a></li>
+                        <li><a href="/index-4">home-version-4</a></li>
+                        <li><a href="/index-5">home-version-5</a></li>
+                        <li><a href="/index-6">home-version-6</a></li>
+                        <li><a href="/index-7">home-version-7</a></li>
                       </ul>
 				</li>
                  <li><a href="Tour_Home.html">tours</a>

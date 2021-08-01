@@ -12,4 +12,7 @@ class PageController extends Controller
     public function index2() {
         return view('user.index-2');
     }
+    public function index3() {
+        return view('user.index-3');
+    }
 }

@@ -16,3 +16,5 @@ use App\Http\Controllers\PageController;
 
 Route::get('/', [PageController::class, 'index1']);
 Route::get('/index-2', [PageController::class, 'index2']);
+Route::get('/index-3', [PageController::class, 'index3']);
+Route::get('/index-4', [PageController::class, 'index4']);

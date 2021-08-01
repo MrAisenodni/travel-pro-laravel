@@ -14,7 +14,7 @@ class PageController extends Controller
     }
     public function index3() {
         return view('user.index-3');
-    }
+    } 
     public function index4() {
         return view('user.index-4');
     }

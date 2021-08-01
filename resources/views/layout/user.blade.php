@@ -49,24 +49,23 @@ Version: 1.0.0
       <div class="container">
         <div class="row">	
           <div class="col-md-6 col-sm-6">
-            <p><i class="fa fa-phone"></i> For Support? Call Us: <span>+1 758-673-2214</span></p>
+            <p><i class="fa fa-phone"></i> For Support? Call Us: <span>+62 858 8978 4451</span></p>
           </div>
           <div class="col-md-6 col-sm-6">
             <div class="top_menu">
               <ul>
                 <li><a href=""><i class="fa fa-globe"></i> Languages</a>
                   <ul class="sub-menu">
-                    <li><a href="">English</a></li>
-                    <li><a href="">France</a></li>
-                    <li><a href="">German</a></li>
+                    <li><a href="/id">Indonesia</a></li>
+                    <li><a href="/">Inggris</a></li>
                   </ul>
                 </li>
-                <li><a href="">My Account</a></li>
-				  <li class="Travelite_login_alert"><a href="#">Login</a></li>
-				  <li class="Travelite_signup_alert"><a href="#">Signup</a></li>
+                <li><a href="/profile">My Account</a></li>
+				  <li class="Travelite_login_alert"><a href="/login">Login</a></li>
+				  <li class="Travelite_signup_alert"><a href="/register">Signup</a></li>
                 <li><a href="">USD</a>
                   <ul class="sub-menu">
-                    <li><a href="">INR</a></li>
+                    <li><a href="">IDR</a></li>
                     <li><a href="">USD</a></li>
                   </ul>
                 </li>
@@ -159,13 +158,13 @@ Version: 1.0.0
               <ul>
                 <li class="active"><a href="">home</a>
 				<ul class="sub-menu">
-				        <li><a href="Home_01.html">home-version-1</a></li>
-                        <li><a href="Home_02.html">home-version-2</a></li>
-                        <li><a href="Home_03.html">home-version-3</a></li>
-                        <li><a href="Home_04.html">home-version-4</a></li>
-                        <li><a href="Home_05.html">home-version-5</a></li>
-                        <li><a href="Home_06.html">home-version-6</a></li>
-                        <li><a href="Home_07.html">home-version-7</a></li>
+				        <li><a href="/">home-version-1</a></li>
+                        <li><a href="/index-2">home-version-2</a></li>
+                        <li><a href="/home-2">home-version-3</a></li>
+                        <li><a href="/home-3">home-version-4</a></li>
+                        <li><a href="/home-4">home-version-5</a></li>
+                        <li><a href="/home-5">home-version-6</a></li>
+                        <li><a href="/home-6">home-version-7</a></li>
                       </ul>
 				</li>
                  <li><a href="Tour_Home.html">tours</a>
